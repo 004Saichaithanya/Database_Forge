@@ -102,12 +102,15 @@ python store_script.py
 ````
 
 The terminal will display:
-![image](https://github.com/user-attachments/assets/068d0479-525f-4a04-b4db-8329c556e760)
-![image](https://github.com/user-attachments/assets/068d0479-525f-4a04-b4db-8329c556e760)
-![image](https://github.com/user-attachments/assets/a053b29d-161a-4b9c-bdd3-d1256b1d0acb)
-![image](https://github.com/user-attachments/assets/a053b29d-161a-4b9c-bdd3-d1256b1d0acb)
-![image](https://github.com/user-attachments/assets/6f31419b-9a9b-4e98-9214-92139790311a)
-![image](https://github.com/user-attachments/assets/6f31419b-9a9b-4e98-9214-92139790311a)
+
+![image](https://github.com/user-attachments/assets/37c11202-2362-4da6-a2d3-776713a166dc)
+
+![image](https://github.com/user-attachments/assets/35b049ae-16cd-4de6-9568-1fbe194ce685)
+
+![image](https://github.com/user-attachments/assets/b4a3be3a-0ffd-420a-8354-63deb0538ade)
+
+
+
 
 
 
